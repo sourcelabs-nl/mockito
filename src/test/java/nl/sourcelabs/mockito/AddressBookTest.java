@@ -1,7 +1,10 @@
 package nl.sourcelabs.mockito;
-import static org.junit.Assert.*;
 import static org.mockito.Mockito.mock;
 
+import nl.sourcelabs.mockito.domain.Address;
+import nl.sourcelabs.mockito.domain.City;
+import nl.sourcelabs.mockito.domain.Country;
+import nl.sourcelabs.mockito.domain.Customer;
 import org.junit.Test;
 
 public class AddressBookTest {

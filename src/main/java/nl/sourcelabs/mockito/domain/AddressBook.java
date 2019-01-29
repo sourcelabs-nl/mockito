@@ -1,4 +1,4 @@
-package nl.sourcelabs.mockito;
+package nl.sourcelabs.mockito.domain;
 
 import java.util.ArrayList;
 import java.util.List;

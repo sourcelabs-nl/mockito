@@ -1,4 +1,4 @@
-package nl.sourcelabs.mockito;
+package nl.sourcelabs.mockito.domain;
 
 public class City {
 
